@@ -4,7 +4,6 @@ b = -2
 c = -5
 
 
-PRINT ("WAWAWWAAW")
 
 
 def equation(a,b,c):
