@@ -26,6 +26,5 @@ def equation(a,b,c):
 
 equation(a,b,c)
 
-print("UDAŁO SIEEEEEEEEEEEEEEEEE!")
 
 
