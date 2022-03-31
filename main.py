@@ -21,3 +21,7 @@ def equation(a,b,c):
   pass
 
 equation(a,b,c)
+
+print("UDAŁO SIEEEEEEEEEEEEEEEEE!")
+
+
