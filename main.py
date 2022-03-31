@@ -3,6 +3,10 @@ a = 1
 b = -2
 c = -5
 
+
+PRINT ("WAWAWWAAW")
+
+
 def equation(a,b,c):
   # obliczanie delty
   D = b * b - 4 * a * c 
